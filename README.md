@@ -25,7 +25,7 @@ The Food Management Website is built using the following technologies:
 
 To set up the Food Management Website on your system, follow these steps:
 
-1. Clone the repository from GitHub: `git clone https://github.com/your-username/food-management-website.git`.
+1. Clone the repository from GitHub: `git clone https://github.com/samhere19/food-management-website.git`.
 2. Ensure you have a compatible web server (such as Apache) installed on your machine.
 3. Set up a MySQL database and import the provided SQL file (`database.sql`) to create the necessary tables and schema.
 4. Modify the database connection settings in the PHP files to match your MySQL server configuration.
@@ -70,6 +70,6 @@ The Food Management Website is open-source software licensed under the [MIT Lice
 
 
 
-For any inquiries or support regarding the Food Management Website, please contact us at `support@example.com`.
+For any inquiries or support regarding the Food Management Website, please contact us at `majisamanway2002@gmail.com`.
 
 We hope you find the Food Management Website useful and user-friendly for managing food categories, customer orders, and revenue tracking in your restaurant!
